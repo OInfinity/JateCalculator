@@ -1,5 +1,7 @@
 # JatéCalculator
 
+My first successful project in HTML, CSS, and JavaScript - not focused on the code itself, but on showcasing how imagination can go further than syntax.
+
 HTML/CSS/JavaScript
 
 # 🧮 Calculator  
